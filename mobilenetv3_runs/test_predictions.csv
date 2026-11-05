@@ -1,0 +1,115 @@
+image_path,true_label,predicted_label,confidence
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 1\DSC_0012.JPG,grade 1,grade 1,0.773039
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 1\DSC_0014.JPG,grade 1,grade 1,0.831205
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 1\DSC_0015 copy.JPG,grade 1,grade 1,0.819442
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 1\DSC_001523.JPG,grade 1,grade 1,0.821716
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 1\DSC_0023.JPG,grade 1,grade 1,0.640689
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 1\DSC_002312.JPG,grade 1,grade 1,0.821451
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 1\DSC_0025.JPG,grade 1,grade 1,0.675012
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 1\DSC_002533.JPG,grade 1,grade 1,0.863317
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 1\DSC_003033.JPG,grade 1,grade 1,0.787037
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 1\IMG_1074.JPG,grade 1,grade 2,0.423078
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 1\IMG_1088.JPG,grade 1,grade 4\external,0.586179
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 1\IMG_1090.JPG,grade 1,grade 4\external,0.682667
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 1\IMG_1092.JPG,grade 1,grade 1,0.586172
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 1\IMG_5287.JPG,grade 1,grade 4\external,0.669366
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 1\IMG_5295.JPG,grade 1,grade 4\external,0.423459
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 1\IMG_5297.JPG,grade 1,grade 3,0.433666
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 1\IMG_5309.JPG,grade 1,grade 4\internal,0.476855
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 1\IMG_E1075.JPG,grade 1,grade 2,0.440203
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 2\DSC_0001.JPG,grade 2,grade 1,0.602075
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 2\DSC_0042.JPG,grade 2,grade 1,0.548307
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 2\DSC_0043.JPG,grade 2,grade 2,0.654812
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 2\DSC_0049.JPG,grade 2,grade 2,0.564394
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 2\DSC_0054.JPG,grade 2,grade 2,0.419308
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 2\IMG_1077.JPG,grade 2,grade 2,0.474271
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 2\IMG_5361.JPG,grade 2,grade 4\external,0.503008
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 2\IMG_5369.JPG,grade 2,grade 4\external,0.361198
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 2\IMG_5372.JPG,grade 2,grade 4\internal,0.324357
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 2\IMG_E1098.JPG,grade 2,grade 2,0.496879
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 3\DSC_001445.JPG,grade 3,grade 3,0.617532
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 3\IMG_1065.JPG,grade 3,grade 3,0.421260
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 3\IMG_1081 - Copy.JPG,grade 3,grade 3,0.378257
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 3\IMG_1099.JPG,grade 3,grade 4\internal,0.461706
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 3\IMG_5315.JPG,grade 3,grade 3,0.451935
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 3\IMG_5317.JPG,grade 3,grade 4\external,0.367728
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 3\IMG_E1070.JPG,grade 3,grade 3,0.395152
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\external\IMG_0121.jpeg,grade 4\external,grade 4\external,0.893529
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\external\IMG_0122.jpeg,grade 4\external,grade 4\external,0.894847
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\external\IMG_0123.jpeg,grade 4\external,grade 4\external,0.897609
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\external\IMG_0125.jpeg,grade 4\external,grade 4\external,0.877011
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\external\IMG_0126.jpeg,grade 4\external,grade 4\external,0.833334
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\external\IMG_0127.jpeg,grade 4\external,grade 4\external,0.577581
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\external\IMG_0128.jpeg,grade 4\external,grade 4\external,0.896767
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\external\IMG_0129.jpeg,grade 4\external,grade 4\external,0.802251
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\external\IMG_0130.jpeg,grade 4\external,grade 4\external,0.821995
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\external\IMG_0131.jpeg,grade 4\external,grade 4\external,0.916624
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\external\IMG_0132.jpeg,grade 4\external,grade 4\external,0.943462
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\external\IMG_1051 - Copy.JPG,grade 4\external,grade 4\external,0.976752
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\external\IMG_1051.JPG,grade 4\external,grade 4\external,0.976752
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\external\IMG_1053 - Copy.JPG,grade 4\external,grade 4\external,0.891867
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\external\IMG_1053.JPG,grade 4\external,grade 4\external,0.891867
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\external\IMG_1054 - Copy.JPG,grade 4\external,grade 4\external,0.871774
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\external\IMG_1054.JPG,grade 4\external,grade 4\external,0.871774
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\external\IMG_1059 - Copy.JPG,grade 4\external,grade 4\external,0.957314
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\external\IMG_1059.JPG,grade 4\external,grade 4\external,0.957314
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\external\IMG_1062.JPG,grade 4\external,grade 4\external,0.937868
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\external\IMG_1063.JPG,grade 4\external,grade 4\external,0.914792
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\external\IMG_1064.JPG,grade 4\external,grade 4\external,0.865251
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\external\IMG_5384.JPG,grade 4\external,grade 4\external,0.807618
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\external\IMG_5385.JPG,grade 4\external,grade 4\external,0.587772
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\external\IMG_5386.JPG,grade 4\external,grade 4\external,0.813603
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\external\IMG_5387.JPG,grade 4\external,grade 4\external,0.563478
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\external\IMG_5388.JPG,grade 4\external,grade 4\external,0.876574
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\external\IMG_5389.JPG,grade 4\external,grade 4\external,0.706911
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\external\IMG_E1059.JPG,grade 4\external,grade 4\external,0.944736
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\external\IMG_E1062.JPG,grade 4\external,grade 4\external,0.925435
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\external\IMG_E1063.JPG,grade 4\external,grade 4\external,0.954288
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\external\IMG_E1064.JPG,grade 4\external,grade 4\external,0.816607
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\internal\IMG_0133.jpeg,grade 4\internal,grade 4\internal,0.950761
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\internal\IMG_0134.jpeg,grade 4\internal,grade 4\internal,0.946171
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\internal\IMG_0135.jpeg,grade 4\internal,grade 4\internal,0.787823
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\internal\IMG_0136.jpeg,grade 4\internal,grade 4\internal,0.918543
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\internal\IMG_0137.jpeg,grade 4\internal,grade 4\internal,0.928198
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\internal\IMG_0138.jpeg,grade 4\internal,grade 4\internal,0.952100
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\internal\IMG_0139.jpeg,grade 4\internal,grade 4\internal,0.933258
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\internal\IMG_0140.jpeg,grade 4\internal,grade 4\internal,0.939741
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\internal\IMG_0141.jpeg,grade 4\internal,grade 4\internal,0.868944
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\internal\IMG_0142.jpeg,grade 4\internal,grade 4\internal,0.919694
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\internal\IMG_0143.jpeg,grade 4\internal,grade 4\internal,0.954138
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\internal\IMG_0144.jpeg,grade 4\internal,grade 4\internal,0.935253
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\internal\IMG_0145.jpeg,grade 4\internal,grade 4\internal,0.988443
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\internal\IMG_0146.jpeg,grade 4\internal,grade 4\internal,0.900989
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\internal\IMG_0147.jpeg,grade 4\internal,grade 4\internal,0.972703
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\internal\IMG_0148.jpeg,grade 4\internal,grade 4\internal,0.908832
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\internal\IMG_0149.jpeg,grade 4\internal,grade 4\internal,0.965359
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\internal\IMG_0150.jpeg,grade 4\internal,grade 4\internal,0.951272
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\internal\IMG_0151.jpeg,grade 4\internal,grade 4\internal,0.956017
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\internal\IMG_0152.jpeg,grade 4\internal,grade 4\internal,0.936480
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\internal\IMG_0153.jpeg,grade 4\internal,grade 4\internal,0.850644
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\internal\IMG_0154.jpeg,grade 4\internal,grade 4\internal,0.913951
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\internal\IMG_1055 - Copy.JPG,grade 4\internal,grade 4\internal,0.585439
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\internal\IMG_1055.JPG,grade 4\internal,grade 4\internal,0.585439
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\internal\IMG_1056 - Copy.JPG,grade 4\internal,grade 4\internal,0.512125
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\internal\IMG_1056.JPG,grade 4\internal,grade 4\internal,0.512125
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\internal\IMG_1057 - Copy.JPG,grade 4\internal,grade 4\internal,0.788827
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\internal\IMG_1057.JPG,grade 4\internal,grade 4\internal,0.788827
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\internal\IMG_1058 - Copy.JPG,grade 4\internal,grade 4\internal,0.676699
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\internal\IMG_1058.JPG,grade 4\internal,grade 4\internal,0.676699
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\internal\IMG_1082.JPG,grade 4\internal,grade 3,0.384727
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\internal\IMG_1083.JPG,grade 4\internal,grade 4\internal,0.680509
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\internal\IMG_1084.JPG,grade 4\internal,grade 4\internal,0.475967
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\internal\IMG_5392.JPG,grade 4\internal,grade 4\internal,0.384116
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\internal\IMG_5393.JPG,grade 4\internal,grade 4\internal,0.454342
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\internal\IMG_5396.JPG,grade 4\internal,grade 4\internal,0.337297
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\internal\IMG_5397.JPG,grade 4\internal,grade 4\internal,0.357276
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\internal\IMG_5398.JPG,grade 4\internal,grade 4\internal,0.473222
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\internal\IMG_5399.JPG,grade 4\internal,grade 4\internal,0.373792
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\internal\IMG_E1055.JPG,grade 4\internal,grade 4\internal,0.696132
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\internal\IMG_E1056.JPG,grade 4\internal,grade 4\internal,0.573984
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\internal\IMG_E1057.JPG,grade 4\internal,grade 4\internal,0.677008
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\internal\IMG_E1058.JPG,grade 4\internal,grade 4\internal,0.614791
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\internal\IMG_E1081.JPG,grade 4\internal,grade 2,0.396352
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\internal\IMG_E1082.JPG,grade 4\internal,grade 4\internal,0.358784
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\internal\IMG_E1083.JPG,grade 4\internal,grade 4\internal,0.492755
+C:\Users\akbra\Desktop\Project_Mango\dataset_split\test\grade 4\internal\IMG_E1084.JPG,grade 4\internal,grade 4\internal,0.418014
